@@ -1,10 +1,9 @@
 ## Hi there 👋
-I’m currently working on SQL, Tableau, Data-Creation
-- 🌱 I’m currently learning ...
+My Skills include SQL, Tableau, Data-Creation
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: Harrisonshaw885@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  see stories in insights while others see rows and columns, I see patterns, predictions, and powerful insights waiting to be discovered."
+- ⚡ Fun fact:  i see stories in insights while others see rows and columns, I see patterns, predictions, and powerful insights waiting to be discovered."
 <!--
 **Harrison-is-cool/Harrison-is-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
