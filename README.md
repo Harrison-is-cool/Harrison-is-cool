@@ -1,20 +1,55 @@
-## Hi there 👋
-My Skills include SQL, Tableau, Data-Creation
-- 💬 Ask me about Data Analytics
-- 📫 How to reach me: Harrisonshaw885@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  i see stories in insights while others see rows and columns, I see patterns, predictions, and powerful insights waiting to be discovered."
-<!--
-**Harrison-is-cool/Harrison-is-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to my GitHub!
+I’m Harrison Nwachukwu
+- Passionate about Business Intelligence and Data Analytics
 
-Here are some ideas to get you started:
+- Skilled in transforming raw data into clear, actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Focused on SQL optimization, interactive dashboards, and cloud-based data pipelines
+
+- Open to collaborations on BI, ETL processes, and reporting solutions
+### 
+### Technologies & Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=flat&logo=dataiku&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### :chart_with_upwards_trend: Most Used Languages
+
+### :earth_africa: Languages
+![English](https://img.shields.io/badge/English-Fluent-blue?style=flat)
+![Deutsch](https://img.shields.io/badge/Deutsch-B1-yellow?style=flat)
+### Travel_Tide Project
+A comprehensive travel platform dashboard designed to deliver real-time insights into user behavior, booking patterns, and customer segmentation.
+
+### Project Highlights
+- Conducted user segmentation analysis using flight, hotel, and session data from January 2023 onward.
+
+- Created six distinct traveler personas based on:
+
+  - Booking frequency and trip patterns
+
+  - Session engagement metrics
+
+  - Demographic insights
+
+- Defined personas such as Frequent Travelers, Family Travelers, Business Travelers, and more.
+
+ ### Tools & Technologies
+- SQL: Data extraction, transformation, and user segmentation
+
+- Tableau: Interactive dashboard visualizations and persona profiling
+
+ ### Business Impact
+- Enabled targeted marketing strategies and personalized user experiences.
+
+- Informed decisions on:
+
+- Loyalty rewards programs
+
+- Flexible booking/rescheduling features
+
+- Family-friendly travel enhancements
+
