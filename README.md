@@ -1,5 +1,6 @@
 ## 👋 Welcome to my GitHub!
 I’m Harrison Nwachukwu
+- currently learning Gcp
 - Passionate about Business Intelligence and Data Analytics
 
 - Skilled in transforming raw data into clear, actionable insights
