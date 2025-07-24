@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 I’m Harrison Nwachukwu
-- currently learning Gcp
+- currently learning ETL with Databricks and Fivetran
 - Passionate about Business Intelligence and Data Analytics
 
 - Skilled in transforming raw data into clear, actionable insights
